@@ -1,8 +1,15 @@
 ## Welcome to GitHub Pages
 
-##You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+# Ishika's First CS193 Homework
+
+- That I get to ask as many questions as I want and (hopefully) not look dumb
+- That it's free time in the sense I can do whatever work during the class. 
+- Having fun as a Data Science major with other people who have the same(ish) major. 
+
 
 ### Markdown
 
